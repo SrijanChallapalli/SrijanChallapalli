@@ -1,14 +1,22 @@
-<h1 align="center">Hi, I'm Srijan 👋</h1>
+<p align="center">
+  <img src="./.github/assets/header.svg" alt="Srijan Challapalli — AI @ Purdue · Systems · AI Infrastructure" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=AI+%40+Purdue+%C2%B7+Software+Engineer;Systems+%26+Distributed+Computing;AI+Infrastructure+%26+Backend;I+build+things+people+actually+use." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&center=true&vCenter=true&color=7AA2F7&width=650&lines=Software+Engineer+%26+Systems+Builder;Distributed+Systems+%26+AI+Infrastructure;I+build+things+people+actually+use." alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/srijan-challapalli/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:srijanchallapalli@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=SrijanChallapalli&style=for-the-badge&color=blueviolet&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=SrijanChallapalli&style=for-the-badge&color=7aa2f7&label=Profile+Views" />
 </p>
+
+---
+
+### 👋 About Me
+
+I'm an **AI student at Purdue** chasing the parts of computing that hold everything else up — storage engines, distributed systems, and the infrastructure that makes AI actually run at scale. I like going low: writing a database from scratch, understanding a system down to its crash-recovery path, and shipping real products people use along the way. Always learning, always building something a little harder than the last thing.
 
 ---
 
@@ -18,19 +26,6 @@
 * 📱 Co-building **ChitYap**, a privacy-first social iOS app with 300+ beta users and nearly 5,000 posts
 * ⚙️ Working on **AI/backend infrastructure** for automated financial due diligence
 * 🔬 Exploring **distributed systems, networking, and infrastructure for AI**
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
 
 ---
 
@@ -45,7 +40,16 @@
   </a>
 </p>
 
-**ChitYap** &nbsp;·&nbsp; Camera-first social platform for close friends, built with SwiftUI and Supabase. Privacy-first, 300+ beta users, ~5,000 posts.
+<table align="center">
+  <tr>
+    <td width="70" align="center" valign="middle">📱</td>
+    <td valign="middle">
+      <b>ChitYap</b> &nbsp;·&nbsp; <i>Camera-first social platform for close friends</i><br/>
+      A privacy-first iOS app built with <b>SwiftUI</b> and <b>Supabase</b>. Co-founded and built end-to-end — from the camera capture flow and real-time feed to auth, storage, and the backend data model. Grew to <b>300+ beta users</b> and <b>~5,000 posts</b> in testing.<br/>
+      <sub>SwiftUI · Supabase · PostgreSQL · Privacy-first architecture</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
