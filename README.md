@@ -32,12 +32,12 @@ I'm an **AI student at Purdue** chasing the parts of computing that hold everyth
 <img src="./.github/assets/hdr-featured.svg" alt="Featured Work" height="32" />
 
 <p align="center">
-  <a href="https://github.com/SrijanChallapalli/LSM-Storage-Engine"><img src="./.github/assets/card-lsm.svg" width="440" alt="LSM Storage Engine" /></a>
+  <img src="./.github/assets/card-chityap.svg" width="440" alt="ChitYap" />
   &nbsp;
   <a href="https://github.com/SrijanChallapalli/Secretariat"><img src="./.github/assets/card-secretariat.svg" width="440" alt="Secretariat" /></a>
 </p>
 <p align="center">
-  <img src="./.github/assets/card-chityap.svg" width="440" alt="ChitYap" />
+  <a href="https://github.com/SrijanChallapalli/LSM-Storage-Engine"><img src="./.github/assets/card-lsm.svg" width="440" alt="LSM Storage Engine" /></a>
 </p>
 
 <br/>
