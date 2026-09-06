@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/assets/header.svg" alt="Srijan Challapalli — AI @ Purdue · Systems · AI Infrastructure" width="100%" />
+  <a href="#"><img src="./.github/assets/header.svg" alt="Srijan Challapalli — AI @ Purdue · Systems · AI Infrastructure" width="100%" /></a>
 </p>
 
 <p align="center">
