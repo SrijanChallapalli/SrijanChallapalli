@@ -7,9 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/srijan-challapalli/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:srijanchallapalli@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=SrijanChallapalli&style=for-the-badge&color=12a5f5&label=PROFILE+VIEWS" />
+  <a href="https://www.linkedin.com/in/srijan-challapalli/"><img src="./.github/assets/btn-linkedin.svg" height="40" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:srijanchallapalli@gmail.com"><img src="./.github/assets/btn-email.svg" height="40" alt="Email" /></a>
+  &nbsp;
+  <a href="https://github.com/SrijanChallapalli"><img src="./.github/assets/btn-github.svg" height="40" alt="GitHub" /></a>
 </p>
 
 <br/>
@@ -31,14 +33,16 @@ I'm an **AI student at Purdue** chasing the parts of computing that hold everyth
 
 <img src="./.github/assets/hdr-featured.svg" alt="Featured Work" height="32" />
 
-<p align="center">
-  <img src="./.github/assets/card-chityap.svg" width="440" alt="ChitYap" />
-  &nbsp;
-  <a href="https://github.com/SrijanChallapalli/Secretariat"><img src="./.github/assets/card-secretariat.svg" width="440" alt="Secretariat" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/SrijanChallapalli/LSM-Storage-Engine"><img src="./.github/assets/card-lsm.svg" width="440" alt="LSM Storage Engine" /></a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%"><img src="./.github/assets/card-chityap.svg" width="100%" alt="ChitYap" /></td>
+    <td width="50%"><a href="https://github.com/SrijanChallapalli/Secretariat"><img src="./.github/assets/card-secretariat.svg" width="100%" alt="Secretariat" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/SrijanChallapalli/LSM-Storage-Engine"><img src="./.github/assets/card-lsm.svg" width="100%" alt="LSM Storage Engine" /></a></td>
+    <td width="50%"><a href="https://github.com/SrijanChallapalli?tab=repositories"><img src="./.github/assets/card-more.svg" width="100%" alt="More on GitHub" /></a></td>
+  </tr>
+</table>
 
 <br/>
 
