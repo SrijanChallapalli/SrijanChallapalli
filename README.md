@@ -11,7 +11,7 @@
   &nbsp;
   <a href="mailto:srijanchallapalli@gmail.com"><img src="./.github/assets/btn-email.svg" height="40" alt="Email" /></a>
   &nbsp;
-  <a href="https://github.com/SrijanChallapalli"><img src="./.github/assets/btn-github.svg" height="40" alt="GitHub" /></a>
+  <a href="https://srijanchallapalli.com/"><img src="./.github/assets/btn-portfolio.svg" height="40" alt="Portfolio" /></a>
 </p>
 
 <br/>
