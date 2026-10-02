@@ -18,31 +18,50 @@
 
 <a href="#"><img src="./.github/assets/hdr-about.svg" alt="About" height="32" /></a>
 
-I'm an **AI student at Purdue** chasing the parts of computing that hold everything else up — storage engines, distributed systems, and the infrastructure that makes AI actually run at scale. I like going low: writing a database from scratch, understanding a system down to its crash-recovery path, and shipping real products people use along the way. Always learning, always building something a little harder than the last thing.
+I'm an **AI student at Purdue** chasing the parts of computing that hold everything else up — storage engines, distributed systems, and the infrastructure that makes AI actually run at scale. I like going low: writing a database from scratch, understanding a system down to its crash-recovery path, and shipping real products people use along the way. Most recently I built an **M&A due-diligence pipeline at MergeWorks** that turns messy financial packets into source-cited, audit-ready analysis — keeping every number in a deterministic sandbox rather than the model. Always learning, always building something a little harder than the last thing.
 
 <br/>
 
 <a href="#"><img src="./.github/assets/hdr-currently.svg" alt="Currently" height="32" /></a>
 
-- Building an **LSM-tree storage engine in Rust** from scratch — WAL, crash recovery, SSTables, compaction, and benchmarking
-- Co-building **ChitYap**, a privacy-first social iOS app with 300+ beta users and nearly 5,000 posts
-- Working on **AI / backend infrastructure** for automated financial due diligence
-- Exploring **distributed systems, networking, and infrastructure for AI**
+- Building an **M&A due-diligence pipeline** at **MergeWorks** — messy financial packets → source-cited, audit-ready analysis, with all arithmetic in a deterministic sandbox, not the model
+- Writing an **LSM-tree storage engine in Rust** from scratch — WAL, memtables, SSTables, bloom filters, and background compaction
+- Shipped **ChitYap** to 300+ users; building **Apply Pilot**, an AI internship-discovery workspace with explainable ranking
+- Exploring **distributed systems, AI infrastructure, and on-chain / DeFi**
 
 <br/>
 
-<a href="#"><img src="./.github/assets/hdr-featured.svg" alt="Featured Work" height="32" /></a>
+<a href="#"><img src="./.github/assets/hdr-flagships.svg" alt="Flagships" height="32" /></a>
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%"><a href="#"><img src="./.github/assets/card-chityap.svg" width="100%" alt="ChitYap" /></a></td>
-    <td width="50%"><a href="https://github.com/SrijanChallapalli/Secretariat"><img src="./.github/assets/card-secretariat.svg" width="100%" alt="Secretariat" /></a></td>
+    <td width="50%"><a href="https://chityap.com/"><img src="./.github/assets/card-chityap.svg" width="100%" alt="ChitYap — privacy-first social app, 300+ users" /></a></td>
+    <td width="50%"><a href="#"><img src="./.github/assets/card-applypilot.svg" width="100%" alt="Apply Pilot — AI internship-discovery workspace" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/SrijanChallapalli/LSM-Storage-Engine"><img src="./.github/assets/card-lsm.svg" width="100%" alt="LSM Storage Engine" /></a></td>
-    <td width="50%"><a href="https://github.com/SrijanChallapalli?tab=repositories"><img src="./.github/assets/card-more.svg" width="100%" alt="More on GitHub" /></a></td>
+    <td width="50%"><a href="https://github.com/SrijanChallapalli/LSM-Storage-Engine"><img src="./.github/assets/card-lsm.svg" width="100%" alt="LSM Storage Engine — Rust KV database from scratch" /></a></td>
+    <td width="50%"><a href="#"><img src="./.github/assets/card-duediligence.svg" width="100%" alt="Due-Diligence Pipeline — M&A analysis at MergeWorks" /></a></td>
   </tr>
 </table>
+
+<br/>
+
+<a href="#"><img src="./.github/assets/hdr-onchain.svg" alt="On-Chain" height="32" /></a>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%"><a href="https://github.com/SrijanChallapalli/Secretariat"><img src="./.github/assets/card-secretariat.svg" width="100%" alt="Secretariat — tokenized-asset marketplace, ETHDenver" /></a></td>
+    <td width="50%"><a href="https://github.com/SrijanChallapalli/challenge-stablecoins"><img src="./.github/assets/card-stablecoin.svg" width="100%" alt="MyUSD Stablecoin — crypto-backed $1 peg" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/SrijanChallapalli/challenge-over-collateralized-lending"><img src="./.github/assets/card-lending.svg" width="100%" alt="Over-Collateralized Lending protocol" /></a></td>
+    <td width="50%"><a href="https://github.com/SrijanChallapalli/challenge-oracles"><img src="./.github/assets/card-oracles.svg" width="100%" alt="Decentralized Oracles — three architectures" /></a></td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://srijanchallapalli.com/projects"><img src="./.github/assets/card-more.svg" width="440" alt="The full index — srijanchallapalli.com/projects" /></a>
+</p>
 
 <br/>
 
