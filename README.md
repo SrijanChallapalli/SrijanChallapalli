@@ -14,7 +14,7 @@
 
 <a href="#"><img src="./.github/media/hdr-about.svg" alt="About" height="32" /></a>
 
-<img align="right" width="84" src="./.github/media/poke-mewtwo.png" alt="Mewtwo" />
+<img align="right" width="84" src="./.github/media/poke-zekrom.png" alt="Zekrom" />
 
 I'm an **AI student at Purdue** chasing the parts of computing that hold everything else up — storage engines, distributed systems, and the infrastructure that makes AI actually run at scale. I like going low: writing a database from scratch, understanding a system down to its crash-recovery path, and shipping real products people use along the way. Most recently I built an **M&A due-diligence pipeline at MergeWorks** that turns messy financial packets into source-cited, audit-ready analysis — keeping every number in a deterministic sandbox rather than the model. Always learning, always building something a little harder than the last thing.
 
@@ -65,7 +65,7 @@ I'm an **AI student at Purdue** chasing the parts of computing that hold everyth
 
 <br/>
 
-<a href="#"><img src="./.github/media/hdr-stats.svg" alt="Stats" height="32" /></a> &nbsp; <img src="./.github/media/poke-zekrom.png" alt="Zekrom" height="40" />
+<a href="#"><img src="./.github/media/hdr-stats.svg" alt="Stats" height="32" /></a>
 
 <p align="center">
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SrijanChallapalli&hide_border=false&border_radius=12&background=141A22&border=262D39&stroke=262D39&ring=6EA8FE&fire=6EA8FE&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=AEB7C3&sideLabels=AEB7C3&dates=7F8A99" alt="GitHub streak stats" /></a>
@@ -77,6 +77,10 @@ I'm an **AI student at Purdue** chasing the parts of computing that hold everyth
 </p>
 
 <br/>
+
+<p align="center">
+  <img src="./.github/media/poke-mewtwo.png" height="78" alt="Mewtwo" />
+</p>
 
 <p align="center">
   <sub>SYSTEMS &nbsp;·&nbsp; DISTRIBUTED COMPUTING &nbsp;·&nbsp; AI INFRASTRUCTURE &nbsp;·&nbsp; BACKEND ENGINEERING</sub>
