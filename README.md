@@ -16,7 +16,9 @@
 
 <img align="right" width="84" src="./.github/media/poke-zekrom.png" alt="Zekrom" />
 
-I'm an **AI student at Purdue** drawn to the infrastructure that makes everything else run — storage engines, distributed systems, and AI at scale. I like going low, and shipping real products people use along the way.
+I'm a builder at heart, driven by curiosity about how complex systems work and how technology can solve real problems.
+Currently studying AI at Purdue and working as a Software Engineering Co-Builder at MergeWorks. I enjoy everything from low-level systems engineering to turning ideas into products people actually use.
+Long-term, I want to build things that matter. For now, I'm learning by doing.
 
 <br/>
 
@@ -25,7 +27,7 @@ I'm an **AI student at Purdue** drawn to the infrastructure that makes everythin
 <img align="right" width="86" src="./.github/media/poke-rayquaza.png" alt="Rayquaza" />
 
 - Building an **M&A due-diligence pipeline** at **MergeWorks** — messy financial packets → source-cited, audit-ready analysis, with all arithmetic in a deterministic sandbox, not the model
-- Building an **[on-chain prediction market](https://srijanchallapalli.com/)** — Ethereum testnet with ERC-20 outcome shares, collateral-backed trading, settlement, and a Postgres event indexer
+- Building an **[on-chain prediction market]** — Ethereum testnet with ERC-20 outcome shares, collateral-backed trading, settlement, and a Postgres event indexer
 - Shipped **ChitYap** to **350+ users** — a privacy-first social accountability iOS app, built and scaled end to end
 - Exploring **distributed systems, AI infrastructure, and on-chain / DeFi**
 
